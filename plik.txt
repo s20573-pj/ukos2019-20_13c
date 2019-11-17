@@ -1,0 +1,3 @@
+Na dzisiejszych zajęciach nauczyłem się łączyć z serwerem poprzez klucz publiczny, jak wygenerować ten klucz.
+
+
